@@ -1,5 +1,5 @@
 //Sum All Numbers in a Range
-// Basic Solution
+// Advanced Solution
 // ex) [3,1] && [1,4]
 
 function sumAll(arr) {
